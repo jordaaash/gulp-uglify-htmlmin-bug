@@ -1,0 +1,3 @@
+.idea
+dest/*.{html,js}
+node_modules

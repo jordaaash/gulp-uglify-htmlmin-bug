@@ -1,0 +1,25 @@
+{
+    "name":         "gulp-uglify-htmlmin-bug",
+    "version":      "0.1.0",
+    "main":         "gulpfile.js",
+    "private":      true,
+    "scripts":      {
+        "start": "gulp"
+    },
+    "repository":   {
+        "type": "git",
+        "url":  "https://github.com/jordansexton/gulp-uglify-htmlmin-bug.git"
+    },
+    "author":       "Jordan Sexton",
+    "bugs":         {
+        "url": "https://github.com/jordansexton/gulp-uglify-htmlmin-bug/issues"
+    },
+    "homepage":     "https://github.com/jordansexton/gulp-uglify-htmlmin-bug",
+    "dependencies": {
+        "gulp":          "^3.8.11",
+        "gulp-clean":    "^0.3.1",
+        "gulp-htmlmin":  "^1.1.1",
+        "gulp-sequence": "^0.3.2",
+        "gulp-uglify":   "^1.2.0"
+    }
+}
